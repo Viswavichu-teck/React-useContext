@@ -1,6 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+With JSON data and created a cart page with per item price , per item quantity,
+Total quantity and total amount
+
+increase or decrease the per unit quantity, which should automatically update the total Quantity and Amount.
+and remove button is used to remove the perticular product and sub total shows the cost of items of that product and total shows the sum of all the subtotals.
+
 
 Currently, two official plugins are available:
 
